@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Brote",
-    "slug": "brote-planificador",
+    "name": "Brote-JDMM",
+    "slug": "brote-jdmm",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -46,7 +46,11 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {}
-    }
+      "router": {},
+      "eas": {
+        "projectId": "3b5a120c-472f-4b65-98f3-6873feb38b98"
+      }
+    },
+    "owner": "juandanielxs-team"
   }
 }
